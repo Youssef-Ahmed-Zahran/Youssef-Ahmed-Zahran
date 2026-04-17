@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer specializing in the MERN | PERN stack with hands-on experience building scalable, responsive web applications. Proficient in React.js, Node.js, Express.js, and MongoDB with expertise in modern state management solutions (Redux Toolkit, React Query, Recoil, Zustand) and UI frameworks (Tailwind CSS, Bootstrap). Successfully developed and deployed diverse full-stack projects including e-commerce platforms with inventory management, professional networking applications with real-time messaging, and content management systems featuring rich text editing, authentication systems, payment integration, and seamless user experiences.
+I'm a Full Stack Developer specializing in the MERN | PERN stack with hands-on experience building scalable, responsive web applications. Proficient in React.js, React-Native, Expo, Node.js, Express.js, and MongoDB with expertise in modern state management solutions (Redux Toolkit, React Query, Recoil, Zustand) and UI frameworks (Tailwind CSS, Bootstrap). Successfully developed and deployed diverse full-stack projects including e-commerce platforms with inventory management, professional networking applications with real-time messaging, and content management systems featuring rich text editing, authentication systems, payment integration, and seamless user experiences.
 
 
 ## 🌐 Socials:
