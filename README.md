@@ -15,7 +15,6 @@
 
 💼 E-Commerce Systems
 💬 Real-Time Chat Applications
-📚 Learning Management Systems
 🏢 Admin Dashboards & CMS
 📱 React Native Applications
 
