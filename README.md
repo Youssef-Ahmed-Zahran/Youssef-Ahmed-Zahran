@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:161b22,100:21262d&height=220&section=header&text=Youssef%20Ahmed%20Zahran&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20⚡&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:161b22,100:21262d&height=220&section=header&text=Youssef%20Ahmed%20Zahran&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=⚡%20Frontend%20React%20Developer%20⚡&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+%26+PERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;React+Native+%7C+MongoDB+%7C+PostgreSQL;Payment+Integration+%7C+Real-Time+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend+React+Developer+🚀;React.js+%7C+TypeScript+%7C+Node.js;React+Native+%7C+Expo;Redux+Toolkit+%7C+TanStack+Query+%7C+Zustand;Feature-Based+Architecture+⚡;Hotel+Booking+Platform+%7C+E-Commerce+Platform;Real-Time+Applications+with+Socket.IO;Performance+Optimization+%7C+Clean+Code" alt="Typing SVG" />
 
 </div>
 
@@ -10,17 +10,17 @@
 
 # 👋 Hi, I'm Youssef Ahmed Zahran
 
-### 🚀 Full Stack Developer | MERN & PERN Specialist
+### 🚀 Frontend React Developer
 
-I'm a passionate Full Stack Developer specializing in building scalable, responsive, and production-ready applications using modern web technologies.
+Frontend React Developer with a Computer Science background, focused on building scalable, responsive, and high-performance web applications using modern frontend technologies.
 
-* ⚛️ React.js, Next.js & React Native
-* 🔥 Redux Toolkit, React Query, Zustand & Recoil
-* 🛠️ Node.js & Express.js
-* 🗄️ MongoDB, PostgreSQL & Prisma
-* 💳 Payment Integration
-* 💬 Real-Time Applications with Socket.io
-* 🎯 Focused on Performance & User Experience
+* ⚛️ React.js & TypeScript Specialist
+* 📱 React Native & Expo Developer
+* 🏗️ Feature-Based Architecture
+* 🔥 Redux Toolkit, TanStack Query & Zustand
+* 💬 Real-Time Applications using Socket.IO
+* 💳 Payment Integration & Authentication Systems
+* 🎯 Performance Optimization & Clean Code Practices
 
 ---
 
@@ -45,34 +45,31 @@ I'm a passionate Full Stack Developer specializing in building scalable, respons
 ### Frontend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge\&logo=SASS\&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white)
 
-### Backend
+### State Management & Data Fetching
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=react-query\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge\&logo=react)
+
+### Backend & Database
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-
-### Database & ORM
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
-
-### State Management
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge\&logo=react-query\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
 ### Tools
 
@@ -81,6 +78,32 @@ I'm a passionate Full Stack Developer specializing in building scalable, respons
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hotel Booking Platform
+
+* Hierarchical inventory management
+* Real-time analytics dashboard
+* PayPal integration
+* JWT Authentication & RBAC
+* Atomic booking system
+
+### 🛒 E-Commerce Platform
+
+* Inventory management system
+* Real-time stock updates
+* Secure authentication
+* Responsive design
+
+### 💼 LinkedIn Clone
+
+* Real-time messaging with Socket.IO
+* Professional networking features
+* Infinite scrolling
+* Optimized data fetching
 
 ---
 
@@ -94,7 +117,7 @@ I'm a passionate Full Stack Developer specializing in building scalable, respons
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -109,16 +132,6 @@ I'm a passionate Full Stack Developer specializing in building scalable, respons
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ahmed-Zahran&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ahmed-Zahran&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
