@@ -10,16 +10,7 @@
 
 # 💫 About Me
 
-I'm a Full Stack Developer specializing in the MERN | PERN stack with hands-on experience building scalable, responsive web applications.
-
-I focus on building real-world products with clean architecture, performance, and great user experience.
-
-- ⚛️ Frontend: React.js, Next.js, React Native, Expo  
-- 🛠 Backend: Node.js, Express.js  
-- 🗄 Databases: MongoDB, PostgreSQL, Prisma  
-- 🔥 State Management: Redux Toolkit, React Query, Zustand, Recoil  
-- 💳 Payment Integration & Authentication Systems  
-- 💬 Real-Time Applications using Socket.io  
+I'm a Full Stack Developer with 2 years of experience specializing in MERN and PERN stacks. Expert in React.js, Express.js, MongoDB, and PostgreSQL with a proven track record of building scalable, responsive web applications using modern state management solutions and UI frameworks. Successfully developed and deployed diverse full-stack projects including POS systems, e-learning platforms, eCommerce stores, social media applications, and food delivery systems featuring payment integration, real-time functionality, and seamless user experiences.
 
 ---
 
