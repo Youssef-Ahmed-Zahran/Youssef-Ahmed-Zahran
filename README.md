@@ -20,10 +20,33 @@ Experienced in delivering high-performance applications with real-time features,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/youssef-zahran-9a8718280/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youssefzahran480@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201221237814)
-[![Phone](https://img.shields.io/badge/📞%20+20%20122%20212%2037814-0A66C2?style=for-the-badge)](tel:+201221237814)
+<div style="display: inline-block; padding: 18px 24px; border-radius: 16px; background: #0d1117; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(88,166,255,0.15);">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-zahran-9a8718280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:youssefzahran480@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/201221237814">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="tel:+201221237814">
+    <img src="https://img.shields.io/badge/Phone-+20%201221237814-1f6feb?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+</div>
 
 </div>
 
