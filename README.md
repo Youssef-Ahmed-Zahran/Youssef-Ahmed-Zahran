@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,60:161b22,100:21262d&height=220&section=header&text=Youssef%20Ahmed%20Zahran&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20⚡&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+%26+PERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;React+Native+%7C+Expo;MongoDB+%7C+PostgreSQL+%7C+Prisma;Building+Scalable+Web+Applications;Payment+Integration+%7C+Real-Time+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+%26+PERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;React+Native+%7C+Expo;MongoDB+%7C+PostgreSQL+%7C+Prisma;Building+Scalable+Web+Applications;Payment+Integration+%7C+Real-Time+Apps" />
 
 </div>
 
@@ -10,7 +10,19 @@
 
 # 💫 About Me
 
-Full Stack Developer specializing in MERN and PERN stacks with hands-on experience building scalable, production-ready web and mobile applications. Skilled in React.js, React Native, Node.js, Express.js, MongoDB, and PostgreSQL, with strong expertise in RESTful API development, system design, authentication (JWT, RBAC), and modern state management (Redux Toolkit, React Query, Zustand, Recoil, Context-API). Experienced in delivering high-performance applications with real-time features, optimized database architecture, and third-party integrations including payment gateways. Proven track record of building complex systems such as e-commerce platforms, hotel booking systems, social networking applications, and content management systems.
+Full Stack Developer specializing in MERN and PERN stacks with hands-on experience building scalable, production-ready web and mobile applications. Skilled in React.js, React Native, Node.js, Express.js, MongoDB, and PostgreSQL, with strong expertise in RESTful API development, system design, authentication (JWT, RBAC), and modern state management solutions including Redux Toolkit, React Query, Zustand, Recoil, and Context API.
+
+Experienced in delivering high-performance applications with real-time features, optimized database architecture, and third-party integrations such as payment gateways and cloud services. Proven track record of building complex systems including e-commerce platforms with inventory management, social networking applications with real-time messaging, and content management systems with rich text editing, authentication, and role-based access control.
+
+---
+
+## 📫 Contact
+
+📧 Email: youssefzahran480@gmail.com  
+📱 WhatsApp: +20 122 123 7814  
+🔗 LinkedIn: linkedin.com/in/youssef-zahran-9a8718280  
+💻 GitHub: github.com/Youssef-Ahmed-Zahran  
+
 ---
 
 ## 🌐 Socials
@@ -43,9 +55,6 @@ Full Stack Developer specializing in MERN and PERN stacks with hands-on experien
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -55,6 +64,7 @@ Full Stack Developer specializing in MERN and PERN stacks with hands-on experien
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context%20API-React-61DAFB?style=for-the-badge)
 
 ---
 
@@ -63,7 +73,6 @@ Full Stack Developer specializing in MERN and PERN stacks with hands-on experien
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 ---
 
@@ -78,7 +87,6 @@ Full Stack Developer specializing in MERN and PERN stacks with hands-on experien
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -94,19 +102,11 @@ Full Stack Developer specializing in MERN and PERN stacks with hands-on experien
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ahmed-Zahran&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ahmed-Zahran&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
