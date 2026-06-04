@@ -10,9 +10,9 @@
 
 # 💫 About Me
 
-Full Stack Developer specializing in MERN and PERN stacks with hands-on experience building scalable, production-ready web and mobile applications. Skilled in React.js, React Native, Node.js, Express.js, MongoDB, and PostgreSQL, with strong expertise in RESTful API development, system design, authentication (JWT, RBAC), and modern state management solutions including Redux Toolkit, React Query, Zustand, Recoil, and Context API.
+I'm a Full Stack Developer with 2 years of experience specializing in MERN and PERN stacks with hands-on experience building scalable web and mobile applications. Skilled in React.js, React Native, Node.js, Express.js, MongoDB, and PostgreSQL, with strong expertise in RESTful API development, system design, authentication (JWT, RBAC), and modern state management solutions including Redux Toolkit, React Query, Zustand, Recoil, and Context API.
 
-Experienced in delivering high-performance applications with real-time features, optimized database architecture, and third-party integrations such as payment gateways and cloud services. Proven track record of building complex systems including e-commerce platforms with inventory management, social networking applications with real-time messaging, and content management systems with rich text editing, authentication, and role-based access control.
+Experienced in delivering high-performance applications with real-time features, optimized database architecture, and third-party integrations such as payment gateways. Proven track record of building complex systems including e-commerce platforms with inventory management, social networking applications with real-time messaging, and content management systems with rich text editing, authentication, and role-based access control.
 
 ---
 
@@ -41,6 +41,7 @@ Experienced in delivering high-performance applications with real-time features,
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -89,21 +90,17 @@ Experienced in delivering high-performance applications with real-time features,
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ahmed-Zahran&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ahmed-Zahran&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ahmed-Zahran&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://komarev.com/ghpvc/?username=Youssef-Ahmed-Zahran&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 
 </div>
 
